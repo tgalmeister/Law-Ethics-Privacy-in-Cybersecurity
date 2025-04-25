@@ -1,4 +1,4 @@
-#Law, Ethics, and Privacy in Cybersecurity
+# Law, Ethics, and Privacy in Cybersecurity
 This graduate-level course explored the intersection of legal frameworks, ethical considerations, and privacy principles as they apply to the field of cybersecurity. Topics included the legality and ethics of hacking, corporate information security, and acceptable use policies, and the evolving role of government in regulating cybersecurity practices. The course emphasized the responsibilities of cybersecurity professionals and organizations, including ethical vulnerability disclosure, remediation of software defects, and adherence to privacy laws and data protection regulations.
 
 Included in this repository is my final research paper for the course, titled “Cyberlaw for Software Companies”, which examines key legal challenges faced by software firms in the cybersecurity landscape.
